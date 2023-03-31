@@ -1,6 +1,6 @@
 Name:		texlive-manyind
 Version:	49874
-Release:	1
+Release:	2
 Summary:	Provides support for many indexes
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/manyind
